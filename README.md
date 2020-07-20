@@ -20,6 +20,8 @@ The application simply uses phones rear camera and detects objects in real time
 
 # Screenshots
 
+<img align="center" src="https://raw.githubusercontent.com/aryanjain28/Image-Caption-Generator/master/Image%20Caption%20Generator/Screenshots/Screenshot26.jpg" height="250" />
+
 # References
 
 <a herf="https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd">https://medium.com</a><br>
