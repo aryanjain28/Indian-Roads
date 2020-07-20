@@ -21,7 +21,7 @@ The application simply uses phones rear camera and detects objects in real time
 # Screenshots
 
 <br>
-<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/Indian-Roads/master/Screenshot.gif"></p>
+<p align="center"><img width="200" src="https://raw.githubusercontent.com/aryanjain28/Indian-Roads/master/Screenshot.gif"></p>
 <br>
 
 # References
