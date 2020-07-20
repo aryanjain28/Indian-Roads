@@ -22,4 +22,8 @@ The application simply uses phones rear camera and detects objects in real time
 
 # References
 
-  <a herf="https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd">Detecting Pikachu</a>
+<a herf="https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd">https://medium.com</a><br>
+<a herf="https://cocodataset.org/">https://cocodataset.org/</a><br>
+<a href="https://www.tensorflow.org/lite/" >https://www.tensorflow.org/lite/</a><br>
+
+
